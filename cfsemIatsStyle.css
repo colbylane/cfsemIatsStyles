@@ -9,7 +9,8 @@ div.IATS_Div {
     margin: 6px;
     position: relative;
     text-align: left;
-    width: auto;
+    width: 100%;
+    max-width: 600px;
     /*border: 2px solid #959494;
     -webkit-border-radius: 10px;
     border-radius: 10px;*/
